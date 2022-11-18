@@ -1,7 +1,7 @@
 # Foreing students master application @ University of Calabria
 This repository belongs to a module of a web page project that allows foreing students to apply to master's courses at the University of Calabria. It is just a portal that is responsible for receiving applications and in a simple way to carry out all the steps for a correct application to the desired course.
 
-# Final goal of this proyect:
+## Final goal of this proyect:
   * Goal1
   * Goal2
   * Goal3
