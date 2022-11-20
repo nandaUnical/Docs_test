@@ -4,7 +4,7 @@ This repository belongs to a module of a web page project that allows foreing st
 ## Final goal of this proyect:
   * Help students follow the application and admission process to the university correctly.
   * Present a single portal with a simple interface.
-  * Ensure that all necessary information per student is available to built a solicitude
+  * Ensure that all necessary information per student is available to built a solicitude.
 
 ## What is happening?
 Every year the [University of Calabria](https://www.unical.it/) receives new students, italian and foreign, both for the bachelor courses and for the master's degree courses. And every year many students are not able to enter because they miss some of the steps to complete the application correctly. 
@@ -20,9 +20,8 @@ Using a single portal, students interested in applying to a master's course can 
 This repository belongs to the foreign students module, so, it only covers the application process for these types of students.
 
 #### Used technologies:
- * one
- * two
- * three
+ * [Django](https://www.django-rest-framework.org/) to develop back-end
+ * [React](https://it.reactjs.org/) to develop front-end
 
 ## How it will make it?
 Project description
