@@ -24,7 +24,12 @@ This repository belongs to the foreign students module, so, it only covers the a
  * [React](https://it.reactjs.org/) to develop front-end
 
 ## How it will make it?
-Project description
+The application work like this:
+ * First, request all necessary personal information from students,
+ * Request information about your previous studies,
+ * Students from blacklisted countries are automatically disqualified,
+ * List all the students of that year and evaluate them according to the criteria of the department,
+ * Then order them by the sum of those criteria in a decreasing order.
 
 ## Conclusion
 
