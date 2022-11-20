@@ -13,19 +13,15 @@ To be admitted it is necessary to take a selective test or the [CISIA OnLine Tes
 
 To solve this problem a sigle portal was created, where students interested in applying to a course can enter step by step all the necessary information in one place. 
 
-This repository belongs to the module for the application of foreign students.
-
 ## What the aplication does?
 
 Using a single portal, students interested in applying to a master's course can start the admission process by leaving all the necessary documentation. The commission in charge of evaluating the candidates will upload an excel document with all those accepted. 
 
-This repository belongs to the foreign students module. 
-
-It only covers the application process for these types of students.
+This repository belongs to the foreign students module, so, it only covers the application process for these types of students.
 
 Why you uses the technologies you use
 
-## How
+## How it will make it?
 Project description
 
 ## Conclusion
